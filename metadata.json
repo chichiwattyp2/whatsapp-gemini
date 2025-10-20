@@ -1,0 +1,5 @@
+{
+  "name": "AI WhatsApp Responder",
+  "description": "A sleek, functional web application that simulates a WhatsApp chat interface where an AI, powered by the Gemini API, generates conversational responses to your messages.",
+  "requestFramePermissions": []
+}
